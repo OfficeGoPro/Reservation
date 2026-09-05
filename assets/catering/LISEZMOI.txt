@@ -1,0 +1,25 @@
+📁 DOSSIER DES PHOTOS : RESTAURATION & PAUSE CAFÉ (OfficeGo)
+==============================================================
+
+Ce dossier contient les photos affichées dans la section "Restauration & Pause Café" du site web.
+Pour remplacer ces photos par vos propres vraies photos, il vous suffit de déposer vos images ici en gardant les mêmes noms :
+
+1. coffee-break.jpg  -> Photo pour "Pause Café (Coffee Break)"
+2. lunch-snack.jpg   -> Photo pour "Repas Léger (Snack)"
+3. lunch-medium.jpg  -> Photo pour "Déjeuner Moyen (Plat classique)"
+4. lunch-vip.jpg     -> Photo pour "Déjeuner VIP (Gastronomique)"
+
+Format recommandé : JPG ou PNG, ratio 4:3 ou 16:9, bonne qualité.
+
+---
+
+📁 مجلد صور الإطعام واستراحة القهوة (OfficeGo)
+==============================================
+
+هذا المجلد مخصص للصور المعروضة في قسم "استراحة القهوة وخدمات الإطعام" على الموقع.
+لاستبدالها بصورك الحقيقية لاحقاً، فقط ضع صورك هنا بنفس هذه الأسماء:
+
+1. coffee-break.jpg  -> صورة استراحة القهوة (Pause Café)
+2. lunch-snack.jpg   -> صورة الوجبة الخفيفة (Snack)
+3. lunch-medium.jpg  -> صورة الغداء الكلاسيكي المتوسط (Déjeuner Moyen)
+4. lunch-vip.jpg     -> صورة الغداء الفاخر (Déjeuner VIP)
